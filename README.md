@@ -1,0 +1,1 @@
+Streamlit app that utilizes Gemini for PDF Parsing and trains/uses a model to analyze and offer insights based on a provided bank statement pdf. Works for various bank statement formats. Ultimately gives loan recommendations.
